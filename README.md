@@ -1,17 +1,17 @@
-¡Bienvenido/a a la Frontend Tee Store, la tienda en línea perfecta para desarrolladores web frontend apasionados! Aquí encontrarás una colección exclusiva de playeras con diseños únicos que representan las principales tecnologías frontend, como HTML, Vue.JS, React, CSS, y más.
+Welcome to the Frontend Tee Store, the perfect online store for passionate frontend web developers! Here you will find an exclusive collection of t-shirts with unique designs representing the main frontend technologies, such as HTML, Vue.JS, React, CSS, and more.
 
-Características Destacadas:
+Featured Features:
 
-👕 Playeras de Alta Calidad: Nuestras playeras están confeccionadas con materiales de primera calidad para asegurar la máxima comodidad y durabilidad. Disfruta de un ajuste perfecto mientras llevas contigo tus tecnologías favoritas.
+👕 High Quality T-Shirts: Our t-shirts are made with premium materials to ensure maximum comfort and durability. Enjoy a perfect fit while carrying your favorite technologies with you.
 
-🎨 Diseños Creativos: Cada playera presenta un diseño original e innovador que destaca las características más emblemáticas de cada tecnología frontend. Demuestra tu pasión por el desarrollo web con estilo.
+Creative Designs: Each t-shirt features an original and innovative design that highlights the most emblematic features of each frontend technology. Show your passion for web development in style.
 
-🛒 Fácil Navegación y Compra: Hemos creado una interfaz de usuario intuitiva y amigable para que puedas explorar nuestra tienda sin esfuerzo. Realizar una compra es rápido y sencillo, ¡así que podrás obtener tu playera favorita en cuestión de minutos!
+🛒 Easy Navigation and Shopping: We've created an intuitive and friendly user interface so you can explore our store effortlessly. Making a purchase is quick and easy, so you can get your favorite t-shirt in minutes!
 
-🌍 Envío Internacional: No importa dónde te encuentres, ¡enviamos a todo el mundo! Ahora los desarrolladores frontend de cualquier parte del planeta pueden llevar consigo su amor por las tecnologías que impulsan la web.
+🌍 International Shipping: No matter where you are, we ship worldwide! Now frontend developers anywhere on the planet can take their love for the technologies that power the web with them.
 
-📷 Comparte tu Estilo: ¡Nos encantaría ver cómo luce tu nueva playera! Comparte tus fotos usando nuestras playeras en las redes sociales con el hashtag #FrontendTeeStore para tener la oportunidad de aparecer en nuestras publicaciones.
+📷 Share your Style: We'd love to see what your new t-shirt looks like! Share your photos wearing our t-shirts on social media with the hashtag #FrontendTeeStore for a chance to be featured in our posts.
 
-💻 Contribuciones y Personalizaciones: Valoramos la comunidad y nos encantaría que contribuyas con tus propios diseños o sugerencias para expandir nuestra colección. Además, podemos ofrecer playeras personalizadas para tu equipo o comunidad, ¡contáctanos para más información!
+💻 Contributions and Customizations: We value the community and would love for you to contribute your own designs or suggestions to expand our collection. We can also offer custom t-shirts for your team or community, contact us for more information!
 
-¡No esperes más para mostrar tu devoción por el desarrollo web frontend! Explora nuestra tienda y elige las playeras que reflejen tus tecnologías preferidas. Frontend Tee Store es el lugar donde la moda y la pasión por la programación se unen. ¡Viste tu camino hacia un futuro frontend excepcional! 👕💻
+Don't wait any longer to show your devotion for frontend web development! Explore our store and choose the t-shirts that reflect your favorite technologies. Frontend Tee Store is the place where fashion and passion for programming come together - dress your way to an exceptional frontend future! 👕💻
