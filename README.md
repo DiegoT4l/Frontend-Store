@@ -1,17 +1,40 @@
-Welcome to the Frontend Tee Store, the perfect online store for passionate frontend web developers! Here you will find an exclusive collection of t-shirts with unique designs representing the main frontend technologies, such as HTML, Vue.JS, React, CSS, and more.
 
-Featured Features:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/688f7864-9755-413c-977b-b4b9ab54c4fe/deploy-status)](https://app.netlify.com/sites/frontendstoreproject-diegot4l/deploys)
 
-👕 High Quality T-Shirts: Our t-shirts are made with premium materials to ensure maximum comfort and durability. Enjoy a perfect fit while carrying your favorite technologies with you.
+# Frontend Store
 
-Creative Designs: Each t-shirt features an original and innovative design that highlights the most emblematic features of each frontend technology. Show your passion for web development in style.
+### Project Description
+This project involves the creation of a website that simulates the shirts web store to frontend developers. The page was developed as part of a Udemy course taught by Professor Juan de la Torre Valdez.
 
-🛒 Easy Navigation and Shopping: We've created an intuitive and friendly user interface so you can explore our store effortlessly. Making a purchase is quick and easy, so you can get your favorite t-shirt in minutes!
+### Educational Purpose
+The purpose of this project is purely educational. Its development focuses on helping students improve their web programming skills using tools like HTML and CSS. Through this project, course participants learn how to create, structure, and style modern and responsive websites.
 
-🌍 International Shipping: No matter where you are, we ship worldwide! Now frontend developers anywhere on the planet can take their love for the technologies that power the web with them.
 
-📷 Share your Style: We'd love to see what your new t-shirt looks like! Share your photos wearing our t-shirts on social media with the hashtag #FrontendTeeStore for a chance to be featured in our posts.
+## Tech Stack
 
-💻 Contributions and Customizations: We value the community and would love for you to contribute your own designs or suggestions to expand our collection. We can also offer custom t-shirts for your team or community, contact us for more information!
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Don't wait any longer to show your devotion for frontend web development! Explore our store and choose the t-shirts that reflect your favorite technologies. Frontend Tee Store is the place where fashion and passion for programming come together - dress your way to an exceptional frontend future! 👕💻
+## Authors
+
+- [@codigoconjuan](https://github.com/codigoconjuan)
+- [@DiegoT4l](https://github.com/DiegoT4l)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/DiegoT4l/Frontend-Store.git
+```
+
+Go to the project directory
+
+```bash
+  cd Frontend-Store
+```
+
+
+## License
+
+[ISC](LICENSE)
